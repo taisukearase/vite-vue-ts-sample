@@ -26,6 +26,7 @@
     "vue",
     "@typescript-eslint"
   ],
+  "ignorePatterns": "tailwind.config.js",
   "rules": {
     "semi": [
       "error",

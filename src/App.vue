@@ -1,7 +1,7 @@
 <script setup lang="ts">
-import TopSection from './components/TopSection.vue'
+import Timer from './components/Timer.vue'
 </script>
 
 <template>
-  <TopSection msg="Custom Message!!!" />
+  <Timer />
 </template>
